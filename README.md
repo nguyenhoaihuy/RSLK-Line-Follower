@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 
-1. [Introduction](#ntroduction)
+1. [Introduction](#introduction)
 
 2. [Build Status](#build-status)
 
